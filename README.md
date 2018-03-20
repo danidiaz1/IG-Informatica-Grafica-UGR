@@ -7,7 +7,7 @@ Prácticas de Informática Gráfica (IG), Grado en Ingeniería Informática, UGR
 # Instrucciones
 
 Situarse en la carpeta P3. Compilar con make. Ejecutar con ./practica3
-Se puede controlar la aplicación mirando las opciones que salen por consola. Por ejemplo: C para ver el cubo, J para ver el objeto jerárquico, P para ver el PLY, etc.
+Las instrucciones de uso de la aplicación se muestran en un menú por consola. Por ejemplo: C para ver el cubo, J para ver el objeto jerárquico, P para ver el PLY, etc.
 Toda la funcionalidad descrita en el siguiente apartado se encuentra en dicho código.
 
 # Descripción de las prácticas
