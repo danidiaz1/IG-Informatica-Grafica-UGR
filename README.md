@@ -2,7 +2,10 @@
 
 Prácticas de Informática Gráfica (IG), Grado en Ingeniería Informática, UGR 2016-2017
 
-
+![alt text](https://github.com/danidiaz1/IG-Informatica-Grafica-UGR/blob/master/GIFS/jerarquico.gif "Modelo Jerárquico")
+![alt text](https://github.com/danidiaz1/IG-Informatica-Grafica-UGR/blob/master/GIFS/revolucion.gif "Objeto revolución copa")
+![alt text](https://github.com/danidiaz1/IG-Informatica-Grafica-UGR/blob/master/GIFS/revolucion2.gif "Objeto revolución peón")
+![alt text](https://github.com/danidiaz1/IG-Informatica-Grafica-UGR/blob/master/GIFS/PLY.gif "Modelo PLY")
 
 # Instrucciones
 
