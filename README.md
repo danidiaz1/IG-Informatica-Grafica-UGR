@@ -4,7 +4,7 @@ Prácticas de Informática Gráfica (IG), Grado en Ingeniería Informática, UGR
 
 
 
-## Descripción de las prácticas
+# Descripción de las prácticas
 
 ## Práctica 1: Introducción. Modelado y visualización de objetos sencillos.
 
